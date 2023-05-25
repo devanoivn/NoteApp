@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:padding="16dp"
     tools:context=".RegisterActivity">
-    
+
     <EditText
         android:id="@+id/emailEditText"
         android:layout_width="match_parent"
