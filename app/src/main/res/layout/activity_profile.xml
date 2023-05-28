@@ -6,7 +6,7 @@
     android:gravity="center"
     android:orientation="vertical"
     tools:context=".ProfileActivity">
-
+<!--tes-->
     <TextView
         android:id="@+id/uidTextView"
         android:layout_width="wrap_content"
